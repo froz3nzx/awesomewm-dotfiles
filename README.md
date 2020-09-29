@@ -2,7 +2,7 @@
 My simple configuration files for awesome window manager
 
 
-This is a simple and modular AwesomeWM configuration that I came up with. Some of the features include kawase blur support, rounded corner support, shadows, custom Discord, Spotify, and Firefox (all clean and including blur, of course), dmenu, useless gaps, and more. 
+This is a simple and modular AwesomeWM configuration that I came up with. Some of the features include kawase blur support, rounded corner support, shadows, custom Discord, Spotify, and Firefox (all clean and including blur, of course), dmenu, useless gaps, randomized wallpapers, and more. 
 
 The necessary dependencies include awesomewm-git (obviously), dmenu, pfetch, neovim, feh, and picom-ibhagwan-git.
 
